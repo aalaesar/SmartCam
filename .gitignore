@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+
+# original version
+smartcam.sh
